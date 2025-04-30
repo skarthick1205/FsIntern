@@ -1,0 +1,3 @@
+loanId,principal,interestRate,durationMonths
+LN001,100000,10,12
+LN002,200000,12,24
